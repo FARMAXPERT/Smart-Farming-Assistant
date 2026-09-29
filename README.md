@@ -36,7 +36,7 @@ Its portable design enables flexible field deployment and future integration wit
 
 | Resource                 | Link                                  |
 | ------------------------ | ------------------------------------- |
-| 🎥 **Project Demo**      | [Add Link](https://drive.google.com/drive/folders/1NeIHeUoiTqFvacyyenWywsRlP8xUjXkV)            |
+| 🎥 **Project Demo**      | [View Demo](https://drive.google.com/drive/folders/1NeIHeUoiTqFvacyyenWywsRlP8xUjXkV)            |
 | 🧩 **3D Model**          | [View Model](https://studio.tripo3d.ai/3d-model/2d6ecb8e-b57e-4ebf-b50e-27caff55140a?invite_code=03071P)      |
 
 
