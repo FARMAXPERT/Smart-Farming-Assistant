@@ -32,16 +32,6 @@ Its portable design enables flexible field deployment and future integration wit
 
 **ESP32 • Raspberry Pi 5 • Camera • Field Sensors • AI • IoT • Edge Computing**
 
-## 🔗 Project Resources
-
-| Resource                 | Link                                  |
-| ------------------------ | ------------------------------------- |
-| 🎥 **Project Demo**      | [View Demo](https://drive.google.com/drive/folders/1NeIHeUoiTqFvacyyenWywsRlP8xUjXkV)            |
-| 🧩 **3D Box Model**          | [View Box Model](https://studio.tripo3d.ai/3d-model/2d6ecb8e-b57e-4ebf-b50e-27caff55140a?invite_code=03071P)      |
-| 🧩 **3D Rover Model**          | [View Box Model](https://studio.tripo3d.ai/3d-model/eabf94b6-9752-4cec-9cdf-1f2d49abd0f1?invite_code=03071P)      |
-
-
-
 ## 🚀 Future Scope
 
 * Automatic valve control
